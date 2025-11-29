@@ -1,4 +1,4 @@
-# Sound Tabs
+# SoundTabs
 
 Control each Firefox tab's audio individually from your desktop media controls on Linux.
 
