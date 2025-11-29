@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "Firefox Per-Tab MPRIS Bridge",
+  "version": "0.1",
+  "description": "Creates per-tab MPRIS players using a native messaging bridge.",
+  "permissions": [
+    "tabs",
+    "activeTab",
+    "nativeMessaging",
+    "<all_urls>"
+  ],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "per_tab_mpris_bridge",
+  "description": "Per-tab MPRIS native host",
+  "path": "/home/dustin/projects/apps/firefox-tab-mpris-bridge/native-host/per_tab_mpris_bridge.py",
+  "type": "stdio",
+  "allowed_extensions": [
+    "bbbab1197878932e8aba5622dad18ca17c2dc4ba@temporary-addon"
+  ]
+}
