@@ -1,0 +1,9 @@
+{
+  "name": "sound_tabs",
+  "description": "Sound Tabs native messaging host",
+  "path": "/usr/local/bin/sound_tabs_host.py",
+  "type": "stdio",
+  "allowed_extensions": [
+    "sound-tabs@soundtabs.addon"
+  ]
+}
