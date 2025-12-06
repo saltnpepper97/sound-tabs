@@ -18,7 +18,7 @@ Media Bridge requires two components:
 
 ### 1. Install the Firefox Extension
 
-Install from [Mozilla Add-ons](https://addons.mozilla.org/firefox/addon/media-bridge/) (pending approval)
+Install from [Mozilla Add-ons](https://addons.mozilla.org/firefox/addon/media-bridge/) (approved!)
 
 Or install from source:
 ```bash
